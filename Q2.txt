@@ -1,0 +1,3 @@
+What does this Vue warning message mean? Can you safely ignore it? What causes it, and how do you fix it?  Write an answer in your own words.
+
+No, you can't safely ignore it because you need to define the property "total" as a method under app. 
